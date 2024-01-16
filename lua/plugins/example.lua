@@ -16,7 +16,7 @@ return {
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "gruvbox",
+      colorscheme = "tokyonight-night",
     },
   },
 
@@ -154,6 +154,9 @@ return {
         "typescript",
         "vim",
         "yaml",
+        "sql",
+        "dockerfile",
+        "make",
       },
     },
   },
