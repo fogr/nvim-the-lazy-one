@@ -2,5 +2,5 @@ return {
   -- dbms
   { "tpope/vim-dadbod" },
   { "kristijanhusak/vim-dadbod-ui" },
-  { "kristijanhusak/vim-dadbod-completion" },
+  -- { "kristijanhusak/vim-dadbod-completion" },
 }
